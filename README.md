@@ -1,8 +1,5 @@
 # NYT React
 
-[Search New York Times articles]
-
-
 ## Technologies Used
 
 - [x] Front end: HTML5, CSS3, Materialize, ES7, React, React Router, Axios, Moment.js
